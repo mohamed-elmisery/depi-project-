@@ -1,4 +1,4 @@
-# 🛒 Sales & Customer Behavior Analysis Dashboard – Power BI
+# 🛒 Supply Chain & E-Commerce Analysis Dashboard – Power BI
 
 ## 📌 Overview
 This project is part of my graduation project in the **DEPI Power BI Specialist Track**.  
